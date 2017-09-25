@@ -1,0 +1,8 @@
+[package]
+authors = ["Taryn Hill <taryn@phrohdoh.com>"]
+name = "flex"
+version = "0.1.0"
+#build = "build.rs"
+
+[build-dependencies]
+bindgen = "0.30.0"
